@@ -1,1 +1,4 @@
-rraaa raa"
+a=8
+b=9
+$=a+b
+echo "a+b $"
